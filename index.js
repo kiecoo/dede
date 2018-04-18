@@ -11,7 +11,7 @@ module.exports = profile
 
 
 function profile (data) {
-  var ninasProfile      = data[0]
+  var ninasProfile      = data[1]
   var username          = ninasProfile.username
   
   var name              = 'Nina'
